@@ -1,4 +1,17 @@
-# Starter Next/Hardhat Project
+# Function Frontend
+
+A contract with few functions integrated with a frontend application.
+
+## Description
+
+This `Assessment` contract demonstrates the creation of few functions and showing the values of those functions in frontend of the application..
+Theis contract has followig functionalities:
+* Smart contract has at least two functions
+* Value of the functions from the smart contract are visible on the frontend of the application
+
+## Getting Started
+
+### Executing the program
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +23,16 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Help
+
+* Make sure you are connected with the Metamask wallet account.
+* Your account should be connected to a localhost network.
+
+## Author
+
+Sumit Singh  
+email: sumitsinghace2003@gmail.com
+
+
+
